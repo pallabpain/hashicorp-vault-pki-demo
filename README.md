@@ -12,3 +12,4 @@ The scripts in this repository do the following things:
 ## Pre-requisites
 * docker
 * vault (client installed on your system)
+* [jq](https://stedolan.github.io/jq/download/)
