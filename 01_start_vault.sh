@@ -1,3 +1,5 @@
+#!/bin/bash
+
 set -o xtrace
 
 # Get absolute path of the working directory
